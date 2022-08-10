@@ -1,4 +1,7 @@
 from instagrapi import Client
 
+id=""
+Password=""
+
 cl=Client()
-cl.login("","")
+cl.login(id,Password)
